@@ -1,6 +1,11 @@
-import java.net.MalformedURLException;
-
 import org.openqa.selenium.*;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+
+import java.io.Console;
+import java.net.MalformedURLException;
+import java.net.URL;
  
 public class ChromeDocker extends Base 
 {
