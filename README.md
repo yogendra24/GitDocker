@@ -1,6 +1,6 @@
 # GitDocker
 This is Branch A
-
+ABCD
 this is branch A 2nd line
 =======
 Added this line by branch_shital
