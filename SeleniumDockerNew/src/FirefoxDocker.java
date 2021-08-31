@@ -16,7 +16,7 @@ public class FirefoxDocker extends Base {
 		webdriver.manage().window().maximize();
 		System.out.println("Started session");
 		Thread.sleep(5000);
-
+                //code for reading data from UI
 		try
 
 		{
