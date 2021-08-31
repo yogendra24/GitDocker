@@ -29,7 +29,7 @@ public class ChromeDocker extends Base
         System.out.println("Started session");
  
         try {
-            /* Enter the search term in the Google Search Box */
+            /* Code from Chorme */
             WebElement search_box = webdriver.findElement(By.xpath("//input[@name='q']"));
             search_box.sendKeys(search_string);
  
