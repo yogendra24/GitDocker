@@ -1,3 +1,3 @@
 # GitDocker
 
-I will add ReadMe soon
+I will add ReadMe for GitDocker soon
