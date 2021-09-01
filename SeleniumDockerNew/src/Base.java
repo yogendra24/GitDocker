@@ -18,7 +18,7 @@ public class Base {
     {
         if(browserName.equalsIgnoreCase("chrome"))
         {
-            System.out.println("Inside Chrome Driver");
+            System.out.println("Inside Chrome Drivers");
             ChromeOptions options = new ChromeOptions();
             driver.set(new RemoteWebDriver(new URL(remote_url_chrome), options));
         }
