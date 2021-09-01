@@ -24,7 +24,7 @@ public class Base {
         }
         else if (browserName.equalsIgnoreCase("firefox"))
         {
-            System.out.println("Inside Firefox");
+            System.out.println("Inside Firefox drivers");
             FirefoxOptions options = new FirefoxOptions();
             driver.set(new RemoteWebDriver(new URL(remote_url_firefox), options));
         }
